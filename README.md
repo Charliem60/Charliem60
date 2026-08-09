@@ -20,7 +20,7 @@ I'm particularly interested in learning how these components can come together t
 ## 🏁 Interests & Hobbies
 - 🏎️ Motorsport Data and Telemetry - Exploring how data can be used to understand performance and strategy
 - 🎮 Sim racing - Enjoying the competitive side of motorsport through Sim racing and converting that knowledge about car setups to in life karting circuits.
-- 🎬 Films and books - My love for The Lord Of the Rings knows no bonds.
+- 🎬 Films and books - My love for The Lord of the Rings knows no bonds.
 - 👨‍🍳 Cooking - On the race track...not the kitchen.
 
 ## 📬 Contact & Connect
