@@ -9,7 +9,7 @@ I'm a passionate motorsport data enthusiast facinated in learning about developi
 - Statistical Modelling
 - Performance Analysis
 - Real-time Data Systems
-- 
+
 ## 🚀 Featured Projects
 
 ## 🏎️ Early Apex Analytics 
