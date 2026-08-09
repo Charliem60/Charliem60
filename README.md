@@ -1,16 +1,52 @@
-## Hi there 👋
+## Hello, I'm Charlie.
+### 🐍 Python Developer | 📊 Data Analytics | 🏎️ Motorsport Enthusiast
+I'm a passionate motorsport data enthusiast facinated in learning about developing systems related to data engineering in motorsport. Currently exploring how motorsport data can be collected, processed and analysed into useful appplications to make it easy to explore results, interept graphs and data traces.
+---
+## 🛠️ Technologies
+---
+## 🚀 Featured Projects
+---
+## 🏎️ Early Apex Analytics 
+A Formula One data analytics project exploring how FastF1 data can be used to understand the data produced over the course of a race weekend and how that can teach us about car traits and driving styles.
+[🔗 View Project](https://github.com/Charliem60/Early-Apex-Analytics-)
+---
+🧠 What I'm Learning
+Motorsport
+    │
+    ├── Telemetry
+    │
+    ├── Race Data
+    │
+    ▼
+Data Engineering
+    │
+    ├── Collection
+    ├── Cleaning
+    ├── Processing
+    └── Storage
+    │
+    ▼
+Data Analytics
+    │
+    ├── Visualisation
+    ├── Statistics
+    └── Performance Analysis
+    │
+    ▼
+Machine Learning
+    │
+    └── Predictive Systems
 
-<!--
-**Charliem60/Charliem60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm particularly interested in learning how these components can come together to create robust motorsport data systems.
+## 🏁 Interests & Hobbies
+- 🏎️ Motorsport Data and Telemetry - Exploring how data can be used to understand performance and strategy
+- 🎮 Sim racing - Enjoying the competitive side of motorsport through Sim racing and converting that knowledge about car setups to in life karting circuits.
+- 🎬 Films and books - My love for The Lord Of the Rings knows no bonds.
+- 👨‍🍳 Cooking - On the race track...not the kitchen.
+---
 
-Here are some ideas to get you started:
+## 📬 Contact & Connect
+Feel free to reach out if you would like to discuss, motorsport data, projects, academic collaboration or have advice.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 📧 **Email:** [charliemmaher@icloud.com](mailto:charliemmaher@icloud.com)
+* 💼 **LinkedIn:** [Charlie Maher](https://www.linkedin.com/in/charlie-maher-a9777927a/)
